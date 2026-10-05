@@ -52,3 +52,5 @@ Các prompt là khung diễn tập có trường thay thế. Không mặc địn
 - [Quy định và nguồn](_chung/04_quy_dinh_nguon.md)
 - [QA và nộp bài](_chung/05_qa_nop_bai.md)
 - [Ghép nhiều plan](_chung/06_ghep_plan.md)
+
+Test push and pull request to see if the repo is private and if I can access it.
